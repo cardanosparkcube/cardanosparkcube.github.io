@@ -1,2 +1,2 @@
-# cardanosparkcub.github.io
+# cardanosparkcube.github.io
 Project website
